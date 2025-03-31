@@ -1,0 +1,44 @@
+name: Generate Resume
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'library/resources/resume.json'
+      - 'library/templates/resume_template.erb'
+      - '.github/workflows/main.yml'
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3.5'
+          
+      - name: Bundle install
+        run: bundle install
+          
+      - name: Generate README from resume.json
+        run: bundle exec ruby library/generate_resume.rb
+
+      - name: Set up Git user for Bot
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Add & Commit changes
+        run: |
+          git add .
+          git commit -m "Update README from resume.json"
+          
+      - name: Push changes
+        env:
+          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
+        run: |
+          git push https://x-access-token:${PAT_TOKEN}@github.com/${{ github.repository }}.git HEAD:main

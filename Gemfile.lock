@@ -1,0 +1,16 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    cgi (0.4.2)
+    erb (4.0.4)
+      cgi (>= 0.3.3)
+
+PLATFORMS
+  arm64-darwin-24
+  ruby
+
+DEPENDENCIES
+  erb
+
+BUNDLED WITH
+   2.5.16

@@ -1,0 +1,195 @@
+{
+    "basics": {
+        "name": "Tiago Bastos",
+        "label": "Senior iOS Engineer",
+        "email": "hello@tiagoalexbastos.com",
+        "summary": "I'm Tiago, a Senior iOS Engineer based in Aveiro, Portugal. I'm currently working remotely at Curve, one of London's leading fintech companies, where I focus on building features for the iOS app using Swift, SwiftUI, and The Composable Architecture.\nWhile my main expertise is in iOS development, I've also worked with other technologies like Kotlin & Java (Android), as well as Go, Ruby, and TypeScript. I actively seek opportunities to contribute across different parts of the stack.\nOutside of work, I'm passionate about sports, travel, and reading books about software engineering or finance.",
+        "location": {
+            "city": "Aveiro",
+            "country": "Portugal 🇵🇹"
+        },
+        "profiles": [
+            {
+                "network": "LinkedIn",
+                "username": "tiagoalexbastos",
+                "url": "https://www.linkedin.com/in/tiagoalexbastos"
+            },
+            {
+                "network": "GitHub",
+                "username": "tiagoalexbastos",
+                "url": "https://github.com/tiagoalexbastos"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Curve",
+            "position": "Senior iOS Engineer",
+            "website": "https://www.curve.com",
+            "startDate": "2022-07",
+            "endDate": "Present",
+            "highlights": [
+                "Technical lead and contributor for key initiatives driving Curve's growth and enabling customer self-service, such as In-App Downgrades, Cashback, and Referrals. This allowed me to collaborate with stakeholders and product managers to set and manage expectations.",
+                "Contributed to Go microservices and TypeScript GraphQL orchestrators, taking on simpler tasks when blocked or when backend capacity was needed"                "Contributed to the iOS project setup and CI/CD. This included changes in our Tuist setup,  changes around our Fastlane setup, ruby scripts, or Gitlab yaml configurations.",
+                "Contributed to the integration of PayPal in Curve, allowing customers from the United Kingdom to set up their PayPal accounts as a funding source in the Curve Wallet"
+            ]
+        },
+        {
+            "company": "Curve",
+            "position": "iOS Engineer",
+            "website": "https://www.curve.com",
+            "startDate": "2021-12",
+            "endDate": "2022-07",
+            "highlights": [
+                "Helped launch Curve X as a new low-cost premium subscription tier, working closely with backend engineers to integrate new service layers",
+                "Built several small applets/features using SwiftUI & The Composable Architecture — this included Anti-Embarrassment, Airport Lounges, Insurances, Curve Fronted, Subscription Downgrades, Account Cancellation, Passcode Reset — during SwiftUI early adoption phase",
+                "Contributed on the new Rewards applet — Curve’s first backend-driven UI — and contributed to the design of its GraphQL contracts",
+                "Designed and implemented the Upgrade flow in the iOS app, still in use today, featuring a configurable API that allows the configuration of elements such as a Paywall, minimum subscription tiers, pre-selection. This increase the upgrades in the Curve iOS app by 3 times."
+            ]
+        },
+        {
+            "company": "Curve (Mindera Contractor)",
+            "position": "iOS Engineer",
+            "website": "https://www.curve.com",
+            "startDate": "2019-04",
+            "endDate": "2021-12",
+            "highlights": [
+                "Redesigned and re-arranged the Onboarding steps of the Curve App back in 2019, working with Objective-C and Realm for the first time",
+                "Contributed to the new Settings and Account applets of the app, where I had the chance to use GraphQL for the first time",
+                "Contributed to the early modularization efforts of the Curve iOS app to improve scalability, team collaboration and faster build times."
+            ]
+        },
+        {
+            "company": "Mindera",
+            "position": "iOS Engineer",
+            "website": "https://mindera.com",
+            "startDate": "2019-03",
+            "endDate": "2021-12",
+            "highlights": [
+                "Worked on the Waitrose Groceries iOS app, contributing to new feature development and UI improvements",
+                "Applied MVVM architecture with Dependency Injection using ReactiveSwift and ReactiveCocoa for better code modularity and testability"
+            ]
+        },
+        {
+            "company": "Pixelmatters",
+            "position": "iOS Engineer",
+            "website": "https://pixelmatters.com",
+            "startDate": "2018-09",
+            "endDate": "2019-02",
+            "highlights": [
+                "Contributed to an iOS app that involved location services & NFC capabilities",
+                "Worked closely with designers and QA to accomplish pixel perfect UI & Animations",
+                "Created an iOS boilerplate for future iOS projects of the company, using RxSwift & MVVM",
+                "[Medium article about Pixelmatters iOS Development toolkit](https://www.pixelmatters.com/blog/pixelmatters-ios-development-toolkit)"
+            ]
+        },
+        {
+            "company": "IEETA - Institute of Electronics and Informatics Engineering of Aveiro",
+            "position": "Junior Researcher",
+            "website": "https://www.ieeta.pt",
+            "startDate": "2015-06",
+            "endDate": "2016-09",
+            "highlights": [
+                "Maintained internal tools for medical text reporting and annotation using Java",
+                "Contributed to an Android app with voice-to-text functionality for clinical reporting",
+                "Collaborated with researchers in the Biomedical group to support digital health initiatives data refinement"
+            ]
+        },
+        {
+            "company": "University of Aveiro Computer and Telematics Engineering Student Association",
+            "position": "Officer",
+            "website": "https://www.facebook.com/neect/about/",
+            "startDate": "2015-01",
+            "endDate": "2016-01",
+            "highlights": [
+                "Head of the sports section of the association",
+                "Helped organize academic events for the student community"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "Universidade de Aveiro",
+            "area": "Computers and Telematics Engineering",
+            "studyType": "Master's Degree",
+            "startDate": "2013-09",
+            "endDate": "2018-07",
+            "courses": [
+                "Mobile Computing",
+                "Security",
+                "Distributed Systems",
+                "Operative Systems",
+                "Computer Architecture",
+                "Objected Oriented Programming"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "name": "Swift & Objective-C",
+            "usage": "Swift has been my daily driver language since late 2018, however, from my experience in Curve I can easily read/write code in Objective-C."
+        },
+        {
+            "name": "SwiftUI & UIkit",
+            "usage": "Equally proficient in SwiftUI and UIKit, with a preference for SwiftUI in recent projects.. Early in my career I was focused on building UI programatically in UIKit, and, by the end of 2022 I started to focus more on SwiftUI."
+        },
+        {
+            "name": "The Composable Architecture (TCA) & MVVM",
+            "usage": "All the projects I contributed to my career were either following TCA or MVVM. Since starting to work in SwiftUI, I've focused a lot on TCA and I keep up to date with Pointfree's content, however, I also have strong knowledge of MVVM from the times I worked in UIKit."
+        },
+        {
+            "name": "Tuist",
+            "usage": "Curve iOS project is set up using Tuist toolchain. This experience allowed me to become proficient in working with Tuist."
+        },
+        {
+            "name": "Firebase, Embrace,",
+            "usage": "Experienced with Firebase and Embrace for debugging, reporting, monitoring, and remote configuration. These tools have enabled me to resolve complex bugs, set up feature alerts, and gather metrics for product feedback.."
+        },
+        {
+            "name": "Combine, RxSwift & ReactiveSwift",
+            "usage": "In some of the iOS apps I contributed to, I had the chance to use these Reactive programming frameworks. I used such frameworks to perform and handle network requests/responses, drive data from View Models to the UI layer, and, handle complex business logic."
+        },
+        {
+            "name": "Swift Concurrency",
+            "usage": "In Curve we were early adopters of Swift Concurrency, where I had the chance to work with Actors for some internal services of the iOS app, and user other tools such as AsyncStreams/AsynSequences, and, get other benefits from asynchronous programming."
+        },
+        {
+            "name": "Stripe, PayPal/Braintree",
+            "usage": "Integration of the PayPal/Braintree iOS SDK into the Curve iOS app, to allow PayPal accounts to be used as a Funding Source in Curve. Maintenance of the Stripe SDK in the Curve App for Subscription payment collection."
+        },
+        {
+            "name": "Snowplow, Branch, Braze, Kustomer, Zendesk",
+            "usage": "Examples of tools I helped integrating or maintaining in the Curve app for core foundational features such as: Analytuics tracking, Referrals, CRM and Customer Support."
+        },
+        {
+            "name": "Java & Kotlin (Android development)",
+            "usage": "Throughout my University Master thesis, I had the chance to develop 2 Android apps using Kotlin & Java. I also developed some personal and University course projects in Kotlin when the language was still in its early days."
+        },
+        {
+            "name": "Ruby & Fastlane",
+            "usage": "Maintenance of the fastlane setup in the Curve iOS App, and, also used Ruby for personal projects."
+        },
+        {
+            "name": "Go",
+            "usage": "Basic proficiency in Go, having contributed to backend services with minor tasks to support the team."
+        },
+        {
+            "name": "TypeScript",
+            "usage": "Basic proficiency in TypeScript, where I had the chance to work on some GraphQL Orchestrator resolvers, and, create mocks to be returned as part of GraphQL stubbed responses."
+        },
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Full Professional"
+        },
+        {
+            "language": "Portuguese",
+            "fluency": "Native"
+        },
+        {
+            "language": "Spanish",
+            "fluency": "Conversational"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+# <%= basics['name'] %>  
+### <%= basics['label'] %>  
+
+> _<%= basics['summary'] %>_
+
+📍 <%= basics['location']['city'] %>, <%= basics['location']['country'] %>  
+📧 <%= basics['email'] %>  
+
+<% basics['profiles'].each do |profile| %>
+[![<%= profile['network'] %>](https://img.shields.io/badge/<%= profile['network'].gsub(' ', '%20') %>-<%= profile['username'].gsub(' ', '%20') %>-blue)](<%= profile['url'] %>)
+<% end %>
+
+---
+
+## 💼 Work Experience
+
+<% work.each do |job| %>
+### <%= job['position'] %> | [<%= job['company'] %>](<%= job['website'] %>)
+*<%= job['startDate'] %> - <%= job['endDate'] %>*
+
+<% job['highlights'].each do |highlight| %>
+- <%= highlight %>
+<% end %>
+
+<% end %>
+
+---
+
+## 🎓 Education
+
+<% education.each do |edu| %>
+### <%= edu['institution'] %>
+**<%= edu['studyType'] %> in <%= edu['area'] %>** *(<%= edu['startDate'] %> - <%= edu['endDate'] %>)*
+
+<% if edu['courses'] && !edu['courses'].empty? %>
+- **Key courses:** <%= edu['courses'].join(', ') %>
+<% end %>
+<% end %>
+
+## 🔨 Skillset / Toolset
+
+<% skills.each do |skill| %>
+- **<%= skill['name'] %>**: <%= skill['usage'] %>
+<% end %>
+
+---
+
+## 🌐 Languages
+
+<% languages.each do |lang| %>
+- **<%= lang['language'] %>**: <%= lang['fluency'] %>
+<% end %>
+
+*This README is generated automatically from my resume.json file. Last updated: <%= Time.now.strftime("%B %d, %Y") %>*
