@@ -30,7 +30,8 @@
             "endDate": "Present",
             "highlights": [
                 "Technical lead and contributor for key initiatives driving Curve's growth and enabling customer self-service, such as In-App Downgrades, Cashback, and Referrals. This allowed me to collaborate with stakeholders and product managers to set and manage expectations.",
-                "Contributed to Go microservices and TypeScript GraphQL orchestrators, taking on simpler tasks when blocked or when backend capacity was needed"                "Contributed to the iOS project setup and CI/CD. This included changes in our Tuist setup,  changes around our Fastlane setup, ruby scripts, or Gitlab yaml configurations.",
+                "Contributed to Go microservices and TypeScript GraphQL orchestrators, taking on simpler tasks when blocked or when backend capacity was needed",
+                "Contributed to the iOS project setup and CI/CD. This included changes in our Tuist setup,  changes around our Fastlane setup, ruby scripts, or Gitlab yaml configurations",
                 "Contributed to the integration of PayPal in Curve, allowing customers from the United Kingdom to set up their PayPal accounts as a funding source in the Curve Wallet"
             ]
         },
@@ -176,7 +177,7 @@
         {
             "name": "TypeScript",
             "usage": "Basic proficiency in TypeScript, where I had the chance to work on some GraphQL Orchestrator resolvers, and, create mocks to be returned as part of GraphQL stubbed responses."
-        },
+        }
     ],
     "languages": [
         {
