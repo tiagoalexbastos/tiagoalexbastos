@@ -1,9 +1,9 @@
-<img src="/library/resources/myself.jpg" width="200" height="200" />
-
 # Tiago Bastos  
-## Senior iOS Developer  
+### Senior iOS Engineer  
 
-> _I'm Tiago, iOS Software Engineer based in Portugal. I'm currently working remotely in Curve, one of the top fintechs in London. My focus area for the past few years has been iOS development, mostly with Swift and a bit of Objective-C. However, I also had a chance to do a bit of Android development with Kotlin and Java, and touch other languages such as Go, Ruby and TypeScript. Besides programming, I love sports such as Football, Futsal, cycling, boxing, MMA, I also really enjoy travelling and to play with my cats! 🐱 Adding to that, I am a frequent reader, I am interested in books about Software engineering & Finances._
+> _I'm Tiago, a Senior iOS Engineer based in Aveiro, Portugal. I'm currently working remotely at Curve, one of London's leading fintech companies, where I focus on building features for the iOS app using Swift, SwiftUI, and The Composable Architecture.
+While my main expertise is in iOS development, I've also worked with other technologies like Kotlin & Java (Android), as well as Go, Ruby, and TypeScript. I actively seek opportunities to contribute across different parts of the stack.
+Outside of work, I'm passionate about sports, travel, and reading books about software engineering or finance._
 
 📍 Aveiro, Portugal 🇵🇹  
 📧 hello@tiagoalexbastos.com  
@@ -22,114 +22,86 @@
 ### Senior iOS Engineer | [Curve](https://www.curve.com)
 *2022-07 - Present*
 
-Upon moving to the position of Senior iOS engineer, I had the chance to step up in 2 directions, both horizontal (within the iOS domain), and vertically (within Curve engineering). I was able to be part of some very ambitious projects, and also had the chance to be a Technical lead for a few. Not only that, but also, had the chance to work in some very specific situations with some Go micro services, typescript GraphQL orchestrators, and Ruby.
 
+- Technical lead and contributor for key initiatives driving Curve's growth and enabling customer self-service, such as In-App Downgrades, Cashback, and Referrals. This allowed me to collaborate with stakeholders and product managers to set and manage expectations.
 
-- SwiftUI
+- Contributed to Go microservices and TypeScript GraphQL orchestrators, taking on simpler tasks when blocked or when backend capacity was needed
 
-- The Composable Architecture (TCA)
+- Contributed to the iOS project setup and CI/CD. This included changes in our Tuist setup,  changes around our Fastlane setup, ruby scripts, or Gitlab yaml configurations
 
-- Go
-
-- Ruby
-
-- TypeScript
-
-- GraphQL
-
-- Tuist
-
-- Gitlab
-
-- GraphQL
+- Contributed to the integration of PayPal in Curve, allowing customers from the United Kingdom to set up their PayPal accounts as a funding source in the Curve Wallet
 
 
 
 ### iOS Engineer | [Curve](https://www.curve.com)
 *2021-12 - 2022-07*
 
-After a few years working as a contractor, I had the chance to move to a permanent role in Curve. I continued to work in the Curve iOS app, during this period, I had the chance to start working with SwiftUI and using The Composable Architecture very deeply in our features. I worked on a few new features such as: Anti-embarrassment mode, Transaction Search, Rewards, Airport Lounges, Curve Fronted, Insurance.
 
+- Helped launch Curve X as a new low-cost premium subscription tier, working closely with backend engineers to integrate new service layers
 
-- SwiftUI
+- Built several small applets/features using SwiftUI & The Composable Architecture — this included Anti-Embarrassment, Airport Lounges, Insurances, Curve Fronted, Subscription Downgrades, Account Cancellation, Passcode Reset — during SwiftUI early adoption phase
 
-- The Composable Architecture (TCA)
+- Contributed on the new Rewards applet — Curve’s first backend-driven UI — and contributed to the design of its GraphQL contracts
 
-- GraphQL
+- Designed and implemented the Upgrade flow in the iOS app, still in use today, featuring a configurable API that allows the configuration of elements such as a Paywall, minimum subscription tiers, pre-selection. This increase the upgrades in the Curve iOS app by 3 times.
 
 
 
 ### iOS Engineer | [Curve (Mindera Contractor)](https://www.curve.com)
 *2019-04 - 2021-12*
 
-For over two and half years, I was working at Curve as contractor from Mindera. During these early years of my journey through Curve, I mainly worked a mixture of Objective-C and Swift, close to a 50/50 split, where I had the chance to work on a few already existing Curve features, back in the day, and to develop a few new ones, such the section of the app for Settings & User Account. I also had the chance of working on re-ordering the Onboarding which was written in Objective-C back then.
 
+- Redesigned and re-arranged the Onboarding steps of the Curve App back in 2019, working with Objective-C and Realm for the first time
 
-- RxSwift
+- Contributed to the new Settings and Account applets of the app, where I had the chance to use GraphQL for the first time
 
-- MVVM
-
-- Objective-C
-
-- UIKit
+- Contributed to the early modularization efforts of the Curve iOS app to improve scalability, team collaboration and faster build times.
 
 
 
 ### iOS Engineer | [Mindera](https://mindera.com)
 *2019-03 - 2021-12*
 
-During my time at Mindera, I had the chance to work on 2 projects. Initially I worked on the Waitrose Groceries iOS app. This app followed MVVM Design pattern and had a strong focus on Reactive Programming, where I had the chance to develop my skills with ReactiveSwift & ReactiveCocoa. After a few weeks in the Waitrose Groceries app, I was moved to the Curve iOS app, where I've been working ever since.
 
+- Worked on the Waitrose Groceries iOS app, contributing to new feature development and UI improvements
 
-- Reactive Programming
-
-- MVVM
-
-- UIKit
+- Applied MVVM architecture with Dependency Injection using ReactiveSwift and ReactiveCocoa for better code modularity and testability
 
 
 
 ### iOS Engineer | [Pixelmatters](https://pixelmatters.com)
 *2018-09 - 2019-02*
 
-Pixelmatters was my first professional experience. During my 6 months at Pixelmatters, I had the chance to work on an iOS app that started being developed just a couple of months before I joined. I had the chance to work really closely with amazing designers, and the product level was pixel-perfect, meaning that mobile engineers were always demanded high standards from UI/UX point of view. Apart from that project, I was also involved in creating a boilerplate for iOS projects, and had a chance to write a [Medium article about Pixelmatters iOS Development toolkit](https://www.pixelmatters.com/blog/pixelmatters-ios-development-toolkit).
 
+- Contributed to an iOS app that involved location services & NFC capabilities
 
-- Swift
+- Worked closely with designers and QA to accomplish pixel perfect UI & Animations
 
-- UIKit
+- Created an iOS boilerplate for future iOS projects of the company, using RxSwift & MVVM
 
-- RxSwift
-
-- MVVM
-
-- iOS
+- [Medium article about Pixelmatters iOS Development toolkit](https://www.pixelmatters.com/blog/pixelmatters-ios-development-toolkit)
 
 
 
 ### Junior Researcher | [IEETA - Institute of Electronics and Informatics Engineering of Aveiro](https://www.ieeta.pt)
 *2015-06 - 2016-09*
 
-During my time as Junior Researcher at IEETA, I had the chance to work in the Biomedical investigation group. I ended up working in a few of internal tools related with medical text reporting & annotation, where I had the chance to work with Java & Python. Adding to that, I also worked on an Android mobile app that had the capability of converting Voice to Text.
 
+- Maintained internal tools for medical text reporting and annotation using Java
 
-- Python
+- Contributed to an Android app with voice-to-text functionality for clinical reporting
 
-- Java
-
-- Android
-
-- Biomedical
+- Collaborated with researchers in the Biomedical group to support digital health initiatives data refinement
 
 
 
 ### Officer | [University of Aveiro Computer and Telematics Engineering Student Association](https://www.facebook.com/neect/about/)
 *2015-01 - 2016-01*
 
-Officer at the Computer and Telematics Engineering Student Association.
 
+- Head of the sports section of the association
 
-- Student Organization
+- Helped organize academic events for the student community
 
 
 
@@ -142,56 +114,39 @@ Officer at the Computer and Telematics Engineering Student Association.
 ### Universidade de Aveiro
 **Master's Degree in Computers and Telematics Engineering** *(2013-09 - 2018-07)*
 
-- **GPA:** 15
 
-- Key courses: Mobile Computing, Security, Distributed Systems, Operative Systems, Computer Architecture, Objected Oriented Programming
-
-
-
----
-
-## 🛠️ Skills
-
-
-### Software Engineering
-
-![Ruby](https://img.shields.io/badge/-Ruby-555555?style=flat-square) ![Python](https://img.shields.io/badge/-Python-555555?style=flat-square) ![Java](https://img.shields.io/badge/-Java-555555?style=flat-square)
-
-![Go](https://img.shields.io/badge/-Go-555555?style=flat-square) ![GraphQL](https://img.shields.io/badge/-GraphQL-555555?style=flat-square) ![REST](https://img.shields.io/badge/-REST-555555?style=flat-square)
-
-![Gitlab](https://img.shields.io/badge/-Gitlab-555555?style=flat-square)
+- **Key courses:** Mobile Computing, Security, Distributed Systems, Operative Systems, Computer Architecture, Objected Oriented Programming
 
 
 
-### iOS Development
-
-![Swift](https://img.shields.io/badge/-Swift-555555?style=flat-square) ![SwiftUI](https://img.shields.io/badge/-SwiftUI-555555?style=flat-square) ![ObjectiveC](https://img.shields.io/badge/-ObjectiveC-555555?style=flat-square)
-
-![The Composable Architecture (TCA)](https://img.shields.io/badge/-The%20Composable%20Architecture%20(TCA)-555555?style=flat-square)
+## 🔨 Skillset / Toolset
 
 
+- **Swift & Objective-C**: Swift has been my daily driver language since late 2018, however, from my experience in Curve I can easily read/write code in Objective-C.
 
-### Android Development
+- **SwiftUI & UIkit**: Equally proficient in SwiftUI and UIKit, with a preference for SwiftUI in recent projects.. Early in my career I was focused on building UI programatically in UIKit, and, by the end of 2022 I started to focus more on SwiftUI.
 
-![Java](https://img.shields.io/badge/-Java-555555?style=flat-square) ![Kotlin](https://img.shields.io/badge/-Kotlin-555555?style=flat-square)
+- **The Composable Architecture (TCA) & MVVM**: All the projects I contributed to my career were either following TCA or MVVM. Since starting to work in SwiftUI, I've focused a lot on TCA and I keep up to date with Pointfree's content, however, I also have strong knowledge of MVVM from the times I worked in UIKit.
 
+- **Tuist**: Curve iOS project is set up using Tuist toolchain. This experience allowed me to become proficient in working with Tuist.
 
+- **Firebase, Embrace,**: Experienced with Firebase and Embrace for debugging, reporting, monitoring, and remote configuration. These tools have enabled me to resolve complex bugs, set up feature alerts, and gather metrics for product feedback..
 
+- **Combine, RxSwift & ReactiveSwift**: In some of the iOS apps I contributed to, I had the chance to use these Reactive programming frameworks. I used such frameworks to perform and handle network requests/responses, drive data from View Models to the UI layer, and, handle complex business logic.
 
----
+- **Swift Concurrency**: In Curve we were early adopters of Swift Concurrency, where I had the chance to work with Actors for some internal services of the iOS app, and user other tools such as AsyncStreams/AsynSequences, and, get other benefits from asynchronous programming.
 
-## 🔨 Tools
+- **Stripe, PayPal/Braintree**: Integration of the PayPal/Braintree iOS SDK into the Curve iOS app, to allow PayPal accounts to be used as a Funding Source in Curve. Maintenance of the Stripe SDK in the Curve App for Subscription payment collection.
 
+- **Snowplow, Branch, Braze, Kustomer, Zendesk**: Examples of tools I helped integrating or maintaining in the Curve app for core foundational features such as: Analytuics tracking, Referrals, CRM and Customer Support.
 
-- **Tuist**: ...
+- **Java & Kotlin (Android development)**: Throughout my University Master thesis, I had the chance to develop 2 Android apps using Kotlin & Java. I also developed some personal and University course projects in Kotlin when the language was still in its early days.
 
-- **Firebase**: ...
+- **Ruby & Fastlane**: Maintenance of the fastlane setup in the Curve iOS App, and, also used Ruby for personal projects.
 
-- **Embrace**: ...
+- **Go**: Basic proficiency in Go, having contributed to backend services with minor tasks to support the team.
 
-- **Combine, RxSwift & ReactiveSwift**: ...
-
-- **PayPal**: ...
+- **TypeScript**: Basic proficiency in TypeScript, where I had the chance to work on some GraphQL Orchestrator resolvers, and, create mocks to be returned as part of GraphQL stubbed responses.
 
 
 ---
@@ -203,21 +158,7 @@ Officer at the Computer and Telematics Engineering Student Association.
 
 - **Portuguese**: Native
 
-- **Spanish**: Professional Working
+- **Spanish**: Conversational
 
 
----
-
-## 👀 Interests
-
-
-- **Programming**
-
-- **New Technologies**
-
-- **Sports**: Playing, Watching
-
-
----
-
-*This README is generated automatically from my resume.json file. Last updated: April 03, 2025*
+*This README is generated automatically from my resume.json file. Last updated: April 05, 2025*
