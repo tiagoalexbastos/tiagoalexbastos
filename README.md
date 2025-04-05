@@ -1,9 +1,11 @@
 # Tiago Bastos  
 ### Senior iOS Engineer  
 
-> _I'm Tiago, a Senior iOS Engineer based in Aveiro, Portugal. I'm currently working remotely at Curve, one of London's leading fintech companies, where I focus on building features for the iOS app using Swift, SwiftUI, and The Composable Architecture.
+I'm Tiago, a Senior iOS Engineer based in Aveiro, Portugal. I'm currently working remotely at Curve, one of London's leading fintech companies, where I focus on building features for the iOS app using Swift, SwiftUI, and The Composable Architecture.
+
 While my main expertise is in iOS development, I've also worked with other technologies like Kotlin & Java (Android), as well as Go, Ruby, and TypeScript. I actively seek opportunities to contribute across different parts of the stack.
-Outside of work, I'm passionate about sports, travel, and reading books about software engineering or finance._
+
+Outside of work, I'm passionate about sports, travel, and reading books about software engineering or finance.
 
 📍 Aveiro, Portugal 🇵🇹  
 📧 hello@tiagoalexbastos.com  
