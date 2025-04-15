@@ -1,7 +1,7 @@
 # Tiago Bastos  
 ### Senior iOS Engineer  
 
-I'm Tiago, a Senior iOS Engineer based in Aveiro, Portugal. I'm currently working remotely at Curve, one of London's leading fintech companies, where I focus on building features for the iOS app using Swift, SwiftUI, and The Composable Architecture.
+Senior iOS Engineer focused in building robust, scalable mobile applications using Swift, SwiftUI, and The Composable Architecture.
 
 While my main expertise is in iOS development, I've also worked with other technologies like Kotlin & Java (Android), as well as Go, Ruby, and TypeScript. I actively seek opportunities to contribute across different parts of the stack.
 
@@ -25,7 +25,7 @@ Outside of work, I'm passionate about sports, travel, and reading books about so
 *2022-07 - Present*
 
 
-- Technical lead and contributor for key initiatives driving Curve's growth and enabling customer self-service, such as In-App Downgrades, Cashback, and Referrals. This allowed me to collaborate with stakeholders and product managers to set and manage expectations.
+- Technical lead and contributor for key initiatives driving Curve's growth and enabling customer self-service, such as In-App Downgrades, Cashback, and Referrals.
 
 - Contributed to Go microservices and TypeScript GraphQL orchestrators, taking on simpler tasks when blocked or when backend capacity was needed
 
@@ -41,11 +41,11 @@ Outside of work, I'm passionate about sports, travel, and reading books about so
 
 - Helped launch Curve X as a new low-cost premium subscription tier, working closely with backend engineers to integrate new service layers
 
-- Built several small applets/features using SwiftUI & The Composable Architecture — this included Anti-Embarrassment, Airport Lounges, Insurances, Curve Fronted, Subscription Downgrades, Account Cancellation, Passcode Reset — during SwiftUI early adoption phase
+- Built several small applets/features using SwiftUI & The Composable Architecture — this included Anti-Embarrassment, Airport Lounges, Insurances, Curve Fronted, Subscription Downgrades, Account Cancellation, Passcode Reset
 
 - Contributed on the new Rewards applet — Curve’s first backend-driven UI — and contributed to the design of its GraphQL contracts
 
-- Designed and implemented the Upgrade flow in the iOS app, still in use today, featuring a configurable API that allows the configuration of elements such as a Paywall, minimum subscription tiers, pre-selection. This increase the upgrades in the Curve iOS app by 3 times.
+- Designed and implemented the Upgrade flow in the iOS app, featuring a configurable API that allows the configuration of elements such as a Paywall, minimum subscription tiers, pre-selection. This increased the Subscription upgrades in the Curve iOS app by 3 times.
 
 
 
@@ -53,11 +53,9 @@ Outside of work, I'm passionate about sports, travel, and reading books about so
 *2019-04 - 2021-12*
 
 
-- Redesigned and re-arranged the Onboarding steps of the Curve App back in 2019, working with Objective-C and Realm for the first time
+- Redesigned and re-arranged the Onboarding steps of the Curve App, mainly in Objective-C
 
-- Contributed to the new Settings and Account applets of the app, where I had the chance to use GraphQL for the first time
-
-- Contributed to the early modularization efforts of the Curve iOS app to improve scalability, team collaboration and faster build times.
+- Contributed to the new Settings and Account applets of the app, used GraphQL for the first time
 
 
 
@@ -66,8 +64,6 @@ Outside of work, I'm passionate about sports, travel, and reading books about so
 
 
 - Worked on the Waitrose Groceries iOS app, contributing to new feature development and UI improvements
-
-- Applied MVVM architecture with Dependency Injection using ReactiveSwift and ReactiveCocoa for better code modularity and testability
 
 
 
@@ -163,4 +159,4 @@ Outside of work, I'm passionate about sports, travel, and reading books about so
 - **Spanish**: Conversational
 
 
-*This README is generated automatically from my resume.json file. Last updated: April 05, 2025*
+*This README is generated automatically from my resume.json file. Last updated: April 15, 2025*
