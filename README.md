@@ -9,6 +9,7 @@ Outside of work, I'm passionate about sports, travel, and reading books about so
 
 📍 Aveiro, Portugal 🇵🇹  
 📧 hello@tiagoalexbastos.com  
+🌐 https://tiagoalexbastos.com  
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tiagoalexbastos-blue)](https://www.linkedin.com/in/tiagoalexbastos)
@@ -159,4 +160,4 @@ Outside of work, I'm passionate about sports, travel, and reading books about so
 - **Spanish**: Conversational
 
 
-*This README is generated automatically from my resume.json file. Last updated: April 15, 2025*
+*This README is generated automatically from my resume.json file. Last updated: April 21, 2025*
