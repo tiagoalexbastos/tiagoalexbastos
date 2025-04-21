@@ -3,6 +3,7 @@
         "name": "Tiago Bastos",
         "label": "Senior iOS Engineer",
         "email": "hello@tiagoalexbastos.com",
+        "website": "https://tiagoalexbastos.com",
         "summary": "Senior iOS Engineer focused in building robust, scalable mobile applications using Swift, SwiftUI, and The Composable Architecture.\n\nWhile my main expertise is in iOS development, I've also worked with other technologies like Kotlin & Java (Android), as well as Go, Ruby, and TypeScript. I actively seek opportunities to contribute across different parts of the stack.\n\nOutside of work, I'm passionate about sports, travel, and reading books about software engineering or finance.",
         "location": {
             "city": "Aveiro",

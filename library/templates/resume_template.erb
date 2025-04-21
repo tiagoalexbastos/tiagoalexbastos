@@ -5,6 +5,7 @@
 
 📍 <%= basics['location']['city'] %>, <%= basics['location']['country'] %>  
 📧 <%= basics['email'] %>  
+🌐 <%= basics['website'] %>  
 
 <% basics['profiles'].each do |profile| %>
 [![<%= profile['network'] %>](https://img.shields.io/badge/<%= profile['network'].gsub(' ', '%20') %>-<%= profile['username'].gsub(' ', '%20') %>-blue)](<%= profile['url'] %>)
